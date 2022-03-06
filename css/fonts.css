@@ -1,0 +1,12 @@
+@font-face {
+  font-family: 'recoleta';
+  src: url(../fonts/Recoleta-RegularDEMO.otf);
+}
+@font-face {
+  font-family: 'NatoSans-b';
+  src: url(../fonts/NotoSans-Bold.ttf);
+}
+@font-face {
+  font-family: 'NatoSans-r';
+  src: url(../fonts/NotoSans-Regular.ttf);
+}
